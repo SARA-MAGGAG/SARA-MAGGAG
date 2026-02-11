@@ -1,13 +1,10 @@
-Parfait — voici ton **README GitHub ultra moderne et attractif**, avec ton lien LinkedIn intégré 👇
-
----
 
 # Hi, I'm Sara Maggag 👋
 
 🎓 **Master’s Student – Data Science & Artificial Intelligence**
 📍 ENSA Khouribga | Morocco
 
----
+
 
 ## 🚀 About Me
 
@@ -23,7 +20,7 @@ Passionate about transforming data into **actionable insights**, I focus on crea
 * 📈 **Decision Support Systems:** dashboards, multi-level reporting, actionable insights
 * 🧠 **Applied AI:** LLMs, AI agents, automation, pipelines, real-world integration
 
----
+
 
 ## 🌱 Currently Exploring
 
@@ -31,7 +28,7 @@ Passionate about transforming data into **actionable insights**, I focus on crea
 * Generative AI & LLMs
 * AI system deployment & automation
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -39,17 +36,17 @@ Passionate about transforming data into **actionable insights**, I focus on crea
 **Visualization & BI:** Power BI, Matplotlib, Seaborn
 **AI & ML Tools:** LLMs, LangChain, RAG pipelines, AI Agents
 
----
+
 
 ## 📫 Let’s Connect
 
 📧 [saramaggag@gmail.com](mailto:saramaggag@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/sara-maggag-a376661b7/](https://www.linkedin.com/in/sara-maggag-a376661b7/)
 
----
+
 
 ✨ *Curious mind. Analytical thinker. Passionate about building intelligent solutions.*
 
----
+
 
 
