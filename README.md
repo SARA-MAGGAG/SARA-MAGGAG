@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @SARA-MAGGAG.
-- 👀 I’m interested in leveraging the power of data to drive insights and innovation.
-- 🌱 I’m currently learning the intricacies of data analysis, honing my skills in statistical analysis and data visualization.
-- 💞️ I’m looking to collaborate on projects that challenge the status quo and push the boundaries of what's possible with data.
-- 📫 How to reach me: Feel free to connect with me here on LinkedIn or drop me a message at [your email address].
-- 😄 Pronouns: She/her
-- ⚡ Fun fact:  I'm passionate about drawing and enjoy sharing my artwork on social media platforms.
+Parfait — voici ton **README GitHub ultra moderne et attractif**, avec ton lien LinkedIn intégré 👇
 
-<!---
-SARA-MAGGAG/SARA-MAGGAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# Hi, I'm Sara Maggag 👋
+
+🎓 **Master’s Student – Data Science & Artificial Intelligence**
+📍 ENSA Khouribga | Morocco
+
+---
+
+## 🚀 About Me
+
+I build **data-driven & AI-powered solutions** to solve real-world problems.
+Passionate about transforming data into **actionable insights**, I focus on creating **practical AI tools and intelligent systems**.
+
+---
+
+## 💡 Expertise
+
+* 🤖 **Machine Learning:** predictive models, classification, regression, evaluation
+* 📊 **Data Analysis & Modeling:** data cleaning, transformation, visualization, KPI design
+* 📈 **Decision Support Systems:** dashboards, multi-level reporting, actionable insights
+* 🧠 **Applied AI:** LLMs, AI agents, automation, pipelines, real-world integration
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced ML pipelines
+* Generative AI & LLMs
+* AI system deployment & automation
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Data:** Python, Pandas, NumPy, Scikit‑learn, SQL
+**Visualization & BI:** Power BI, Matplotlib, Seaborn
+**AI & ML Tools:** LLMs, LangChain, RAG pipelines, AI Agents
+
+---
+
+## 📫 Let’s Connect
+
+📧 [saramaggag@gmail.com](mailto:saramaggag@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/sara-maggag-a376661b7/](https://www.linkedin.com/in/sara-maggag-a376661b7/)
+
+---
+
+✨ *Curious mind. Analytical thinker. Passionate about building intelligent solutions.*
+
+---
+
+
